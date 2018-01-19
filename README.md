@@ -4,6 +4,6 @@ Repository for EPAM lessons
 
 Start: 15 January 2018
 
-Contributors:
+Developers:
 1. Mikhail Gurko
 2. Artem Safargaliev
