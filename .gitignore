@@ -56,10 +56,4 @@ hs_err_pid*
 ### Gradle template
 /.gradle/
 /build/
-
-/gradlew
-/build.gradle
-/settings.gradle
-/gradlew.bat
 /.idea/
-/gradle/
